@@ -1,0 +1,16 @@
+.info{
+    margin-bottom: 5vh;
+}
+
+.caixaP{
+    margin-bottom: 2vh;
+}
+
+.proreit h4{
+    color: darkblue;
+    font-weight:500;
+}
+
+.proreit h4:hover{
+    text-decoration: underline;
+}

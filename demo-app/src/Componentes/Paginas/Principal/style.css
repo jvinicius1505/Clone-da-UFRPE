@@ -1,0 +1,34 @@
+.news h2{
+    margin-top: 1vh;
+    border-top: black 2px solid;
+    background-color: antiquewhite;
+}
+
+.noticias{
+    display: flex;
+}
+
+.news img{
+    height: 55%;
+}
+
+.caixaNews{
+    margin-left: 2vw;
+    display: block;
+    margin-bottom: 2vh;
+}
+
+.caixaNews h5{
+    color: darkblue;
+}
+
+.caixaNews h5:hover{
+    text-decoration: underline;
+}
+
+.caixaNews p{
+    font-weight: 300;
+    margin-top: 0.5vh;
+    font-style: italic;
+    font-size: 0.9em;
+}

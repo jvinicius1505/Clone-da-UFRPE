@@ -1,0 +1,14 @@
+ul{
+    list-style: none;
+    margin-left: -3vw;
+}
+
+li{    
+    margin-bottom: 2vh;
+    font-weight: bolder;
+    color: darkblue;
+}
+
+li:hover{
+    text-decoration: underline;
+}

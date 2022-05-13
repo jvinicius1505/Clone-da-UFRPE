@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+}
+
+header{
+    background-color: darkblue;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    padding-left: 15vw;
+}
+
+.esquerda{
+    display: flex;
+    align-items: center;
+    width: 45%;
+}
+
+.esquerda a {
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
+
+.esquerda img{
+    display: block;
+    height: 80%;
+    margin-right: 1vw;
+}
+
+.direita{
+    display: block;
+    align-items: center;
+    width: 40%;
+    text-align: center;
+}
+
+.direita input{
+    font-size: 1.3em
+}
+
+a h4{
+    color: #FFF;
+}
